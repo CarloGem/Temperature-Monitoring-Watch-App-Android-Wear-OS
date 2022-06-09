@@ -1,1 +1,0 @@
-# Temperature-Monitoring-Watch-App-Android-Wear-OS
